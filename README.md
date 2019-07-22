@@ -5,4 +5,4 @@ Create a Branch
 
 Create a Branch2
 
-edit in sublime textedit in sublime text
+edit in sublime text
